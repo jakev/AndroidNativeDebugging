@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="mainTitle">Password Protected</string>
+    <string name="app_name">Debug Native</string>
+    <string name="mainButton">Submit</string>
+    <string name="mainText">Enter the password.</string>
+
+</resources>
